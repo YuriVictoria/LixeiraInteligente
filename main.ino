@@ -19,6 +19,7 @@ Ultrasonic tampa(PINO_TRIGGER_TAMPA, PINO_ECHO_TAMPA);;
 Ultrasonic capacidade(PINO_TRIGGER_CAPACIDADE, PINO_ECHO_CAPACIDADE);
 
 Servo s;
+int pos = 0;
 
 void setup()
 {
@@ -28,21 +29,18 @@ void setup()
 
   Serial.begin(9600);
   s.attach(PINO_SERVO);
-  s.write(0);
+  s.write(pos);
 }
  
 void loop()
 {
-  //Le as informacoes do sensor, em cm e pol
+  //Le as informacoes do sensor, em cm
   float sensorTampa;
   long microsec = tampa.timing();
   
   sensorTampa = tampa.convert(microsec, Ultrasonic::CM);
-  //Exibe informacoes no serial monitor
-
+  
   estadoCapacidade();
-
-  Serial.println(sensorTampa);
 
   if(sensorTampa <= 5 && !estadoTampa())
     abrirTampa();
@@ -52,9 +50,7 @@ void loop()
 }
 
 void abrirTampa() {
-  Serial.println("Abrir tampa"); //função motor
-    
-  for(int pos = 0; pos <= 90; pos++) {
+  for(pos; pos <= 180; pos++) {
     s.write(pos);
     delay(15);
   }
@@ -63,9 +59,7 @@ void abrirTampa() {
 }
 
 void fecharTampa() {
-    Serial.println("Fechar tampa"); //função motor
-  
-  for(int pos = 90; pos >= 0; pos--) {
+  for(pos; pos >= 0; pos--) {
     s.write(pos);
     delay(15);
   }
