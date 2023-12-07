@@ -15,9 +15,10 @@ A ideia do projeto foi utilizar os sensores ultrassônicos para agregar comodida
 
 ## Descrição
 
-O projeto abre e fecha a tampa utilizando um sensor ultrassônico e um micro servo motor, além de também informar se a lixeira está cheia ou não, tudo isso controlado pelo arduino. 
+O projeto abre e fecha a tampa utilizando um sensor ultrassônico e um micro servo motor, além de também informar se a lixeira está cheia ou não, tudo isso controlado pelo arduino.
 
-Para a lixeira decidir se deve realizar uma ação, seja ela de abrir ou de fechar a tampa, ela precisa de duas verificações, a primeira verifica se o usuario quer realizar uma ação, para isso é necessario que exista algum movimento a menos de 5 cm do sensor, se existir, ela verifica qual é o estado atual da tampa, ou seja, fechada ou aberta, e se ela estiver fechada a lixeira entende que o usuario quer na verdade abrir a tampa, mas se a tampa estiver aberta ela entende que o usuario quer na verdade fechar a tampa, depois disso em ambos os casos ela realiza a ação utilizando o servo motor. Agora para avisar que a lixeira está lotada ela acende um led vermelho que avisa caso o lixo esteja a menos de 10 cm da tampa.
+Para a lixeira decidir se deve realizar uma ação, seja ela de abrir ou de fechar a tampa, ela precisa de duas verificações, a primeira verifica se o usuário quer realizar uma ação, para isso é necessário que exista algum movimento a menos de 5 cm do sensor, se existir, ela verifica qual é o estado atual da tampa, ou seja, fechada ou aberta, e se ela estiver fechada a lixeira entende que o usuário quer na verdade abrir a tampa, mas se a tampa estiver aberta ela entende que o usuário quer na verdade fechar a tampa, depois disso em ambos os casos ela realiza a ação utilizando o servo motor. Agora para avisar que a lixeira está lotada ela acende um led vermelho que avisa caso o lixo esteja a menos de 10 cm da tampa.
+
 
 ## Componentes/Materiais
 
