@@ -44,7 +44,8 @@ Repositório para o trabalho desenvolvido na disciplina de PIC1
 
 ## Autores
 
-- Anderson -> [@juniorcamisa10](https://github.com/juniorcamisa10){:target="_blank"}
-- Lucas -> [@LucasPBrioschi](https://github.com/LucasPBrioschi){:target="_blank"}
-- Wilkis Gabriel -> [@](https://github.com/){:target="_blank"}
-- Yuri -> [@YuriVictoria](https://github.com/YuriVictoria){:target="_blank"}
+- Anderson -> [@juniorcamisa10](https://github.com/juniorcamisa10)
+- Lucas -> [@LucasPBrioschi](https://github.com/LucasPBrioschi)
+- Wilkis Gabriel -> [@](https://github.com/)
+- Yuri -> [@YuriVictoria](https://github.com/YuriVictoria)
+
