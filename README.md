@@ -7,7 +7,7 @@ Repositório para o trabalho desenvolvido na disciplina de PIC1
 - [Descrição](#descrição)
 - [Como compilar](#como-compilar)
 - [Detalhes](#detalhes)
-- [Componentes](#componentes)
+- [Componentes/Materiais](#componentes)
 - [Circuito](#circuito)
 - [Resultado](#resultado)
 - [Autores](#autores)
@@ -28,7 +28,7 @@ Repositório para o trabalho desenvolvido na disciplina de PIC1
 
 ...
 
-## Componentes
+## Componentes/Materiais
 
 - Arduino Uno
 - 2x Sensor Ultrassônico HC-SR04
@@ -36,6 +36,8 @@ Repositório para o trabalho desenvolvido na disciplina de PIC1
 - Lixeira de plástico
 - Tampa de papelão
 - Fundo falso de papelão
+- Jumpers
+- Fonte de alimentação 9v 1a
 
 ## Circuito
 
