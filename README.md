@@ -45,7 +45,7 @@ Repositório para o trabalho desenvolvido na disciplina de PIC1
 
 ## Resultado
 
-...
+Vídeo com o resultado -> [Link](https://youtube.com/)
 
 ## Autores
 
@@ -53,4 +53,3 @@ Repositório para o trabalho desenvolvido na disciplina de PIC1
 - Lucas -> [@LucasPBrioschi](https://github.com/LucasPBrioschi)
 - Wilkis Gabriel -> [@](https://github.com/)
 - Yuri -> [@YuriVictoria](https://github.com/YuriVictoria)
-
