@@ -31,8 +31,11 @@ Repositório para o trabalho desenvolvido na disciplina de PIC1
 ## Componentes
 
 - Arduino Uno
-- 2x SensorUltrasonic
-- MicroServo 9g
+- 2x Sensor Ultrassônico HC-SR04
+- Micro Servo Motor 9g SG90
+- Lixeira de plástico
+- Tampa de papelão
+- Fundo falso de papelão
 
 ## Circuito
 
