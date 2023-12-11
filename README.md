@@ -40,5 +40,5 @@ Vídeo com o resultado -> [Link](https://youtube.com/)
 
 - Anderson -> [@juniorcamisa10](https://github.com/juniorcamisa10)
 - Lucas -> [@LucasPBrioschi](https://github.com/LucasPBrioschi)
-- Wilkis Gabriel -> [@](https://github.com/)
+- Wilkis Gabriel -> [@WilkisGabriel](https://github.com/WilkisGabriel)
 - Yuri -> [@YuriVictoria](https://github.com/YuriVictoria)
