@@ -34,7 +34,7 @@ Para a lixeira decidir se deve realizar uma ação, seja ela de abrir ou de fech
 
 ## Resultado
 
-Vídeo com o resultado -> [Link](https://youtube.com/)
+Vídeo com o resultado -> [Link](https://drive.google.com/file/d/1VOdHg5tKKz4MMJ7-NoQgnTD0buzKIsB1/view?usp=sharing)
 
 ## Autores
 
